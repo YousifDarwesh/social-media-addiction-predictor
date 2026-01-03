@@ -1,3 +1,0 @@
-git rm --cached models/.gitkeep
-git commit -m "Remove .gitkeep from repository only"
-git push
